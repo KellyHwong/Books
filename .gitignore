@@ -1,0 +1,9 @@
+# ignore these formats of files
+#*.pdf
+#*.torrent
+
+# exclude everything except
+/*
+!/.gitignore
+!/乔治奥威尔《1984》中文版.pdf
+# Git 支不支持中文，有待考证
